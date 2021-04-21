@@ -7,3 +7,5 @@ Functionalities:
 - displaying daily forecast (7d) in table view
 
 Forecast are acquired from Open Weather API.
+
+<p align="center"><img src="screen.PNG" witdh="200" height="400" alt=""></p>
